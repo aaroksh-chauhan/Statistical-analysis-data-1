@@ -10,12 +10,12 @@ This project performs exploratory and statistical analysis on Global SST data to
 ## Data
 - **Source:** HADISST
 - **Variables analyzed:** SST
-- **Time period / sample size:**
+- **Time period :** 1870-2025
 
 ## Tools & Methods
-- **Language:** Python (Jupyter Notebook)
-- **Key libraries:** [e.g. pandas, numpy, matplotlib, seaborn, scipy]
-- **Techniques used:** [e.g. descriptive statistics, correlation analysis, trend analysis, distribution fitting]
+- **Language:** Python 
+- **Key libraries:** xarray, numpy, matplotlib, seaborn
+- **Techniques used:** correlation analysis, trend analysis, distribution fitting
 
 ## Results
 [Summarize key findings — e.g. "The analysis revealed a statistically significant upward trend in [variable] over the study period."]
