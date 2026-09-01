@@ -1,17 +1,16 @@
 # Statistical Analysis of IMD Rainfall data 
 
 ## Overview
-This project performs exploratory and statistical analysis on [specify dataset — e.g. climate/oceanographic/meteorological data] to uncover trends, distributions, and relationships within the data.
+This project performs exploratory and statistical analysis on Global SST data to uncover trends, distributions, and relationships within the data.
 
 ## Objective
 - Explore and summarize key statistical properties of the dataset
 - Identify trends, outliers, or significant patterns
-- [Add specific research question if applicable]
 
 ## Data
-- **Source:** [specify dataset name/origin]
-- **Variables analyzed:** [list key variables]
-- **Time period / sample size:** [fill in]
+- **Source:** HADISST
+- **Variables analyzed:** SST
+- **Time period / sample size:**
 
 ## Tools & Methods
 - **Language:** Python (Jupyter Notebook)
