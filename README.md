@@ -18,14 +18,12 @@ This project performs exploratory and statistical analysis on Global SST data to
 - **Techniques used:** correlation analysis, trend analysis, distribution fitting
 
 ## Results
-[Summarize key findings — e.g. "The analysis revealed a statistically significant upward trend in [variable] over the study period."]
-
-Adding a chart or summary table here will make the findings much easier to scan at a glance.
+As we calculated the areal mean for Nino 3.4 region and iterated the same method 10,000 times , then on plotting its histogram distribution we can see the maximum values concerntrate over 26.75 degree C. This suggests that accurate mean for our study region can be 26.75
 
 ## Skills Demonstrated
 - Statistical data analysis in Python
 - Data cleaning and exploratory data analysis (EDA)
-- Interpretation of scientific/environmental datasets
+- Interpretation of scientific datasets
 
 ## Author
 Aaroksh Chauhan — M.Sc. Atmospheric and Oceanic Sciences, IIT Bhubaneswar
