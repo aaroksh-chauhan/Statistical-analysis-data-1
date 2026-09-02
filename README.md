@@ -18,7 +18,7 @@ This project performs exploratory and statistical analysis on Global SST data to
 - **Techniques used:** correlation analysis, trend analysis, distribution fitting
 
 ## Results
-As we calculated the areal mean for Nino 3.4 region and iterated the same method 10,000 times , then on plotting its histogram distribution we can see the maximum values concerntrate over 26.75 degree C. This suggests that accurate mean for our study region can be 26.75
+As we calculated the areal mean for Nino 3.4 region and iterated the same method 10,000 times , then on plotting its histogram distribution we can see the maximum values concerntrate over 26.95 degree C. This suggests that accurate mean for our study region can be 26.95
 
 ## Skills Demonstrated
 - Statistical data analysis in Python
